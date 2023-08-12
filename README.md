@@ -3,17 +3,13 @@
 
 <h1 align="center">Tuto <a href="https://discord.gg/hktVzrff54">Here</a></h1>
 
-<p align="center">
-<strong>Star and follows me <3</strong>
-</p
-
 <h1 align="center">Preview</h1>
 
 
 
 How to run:
 ```
-Soon
+Soon...
 ```
 
 Questions ?
