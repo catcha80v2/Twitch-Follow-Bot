@@ -7,7 +7,9 @@
 <strong>Star and follows me <3</strong>
 </p
 
-# Preview
+<p align="center">
+<strong>Preview</strong>
+</p
 
 
 
