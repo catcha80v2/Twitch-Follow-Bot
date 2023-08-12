@@ -8,6 +8,8 @@
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1139624055176183828/1139636304859123833/image.png"></p>
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1131556640559214602/1139913509715595305/image.png"></p>
+
 
 ###
 
